@@ -27,7 +27,7 @@ to segment different tissue structures. The proposed technique could be used on 
 
 
 ## How to run it
-There are two steps to run the code. First, make sure openCV_world331.dll is in your PATH enviromental (see more [Install OpenCV on Windows](https://learnopencv.com/install-opencv-4-on-windows/#:~:text=Press%20Start%2C%20type%20Environment%20variables,directory%20where%20OpenCV%20was%20installed). Make sure if you want to run the executable file you need to add opnCV version 3.3.1. 
+There are two steps to run the code. First, make sure openCV_world331.dll is in your PATH enviromental (see more [Install OpenCV on Windows](https://learnopencv.com/install-opencv-4-on-windows/#:~:text=Press%20Start%2C%20type%20Environment%20variables,directory%20where%20OpenCV%20was%20installed). Make sure if you want to run the executable file you need to add OpenCV version 3.3.1. 
 You can also build the code from source using Visual Studio 2017 (Other versions are not tested).
 
 For more information, please contact [salarra67@gmail.com](mailto:salarra67@gmail.com)
