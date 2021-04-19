@@ -31,3 +31,4 @@ There are two steps to run the code. First, make sure openCV_world331.dll is in 
 You can also build the code from source using Visual Studio 2017 (Other versions are not tested).
 
 For more information, please contact [salarra67@gmail.com](mailto:salarra67@gmail.com)
+Part of https://github.com/fderue/SPX_SVM is used in our project.
